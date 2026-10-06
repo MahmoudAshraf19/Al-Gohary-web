@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/assets/main_logo.jpeg" alt="Al Gohary Logo" width="150" />
+  <img src="public/app_logo.png" alt="Al Gohary Logo" width="150" />
   
   # Al Gohary Web Platform
   
@@ -60,19 +60,6 @@ Run the local development server:
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## 📦 Build & Deployment
-
-This project uses Vite for building and a custom prerender script for generating static assets for Firebase Hosting.
-
-1. Build the project:
-   ```bash
-   npm run build
-   ```
-2. Deploy to Firebase:
-   ```bash
-   firebase deploy --only hosting
-   ```
 
 ## 🛠️ Technology Stack
 
