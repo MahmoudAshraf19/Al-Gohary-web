@@ -1,0 +1,73 @@
+{
+  "common": {
+    "placeholder": "Placeholder",
+    "loading": "Loading..."
+  },
+  "hero": {
+    "title": "Everyday services, made simple.",
+    "description": "Find trusted professionals for the services you need, whenever you need them.",
+    "primaryCta": "Get the App",
+    "secondaryCta": "Explore Services"
+  },
+  "intro": {
+    "title": "Your trusted platform for everyday services.",
+    "description": "Al-Gohary makes it easier for customers to connect with suitable service providers and manage service requests in one place."
+  },
+  "services": {
+    "title": "Explore Our Services",
+    "noServices": "No services available at the moment."
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": {
+      "1": {
+        "title": "Choose a service",
+        "desc": "Browse through our wide range of service categories."
+      },
+      "2": {
+        "title": "Select & Communicate",
+        "desc": "Select the required service and communicate directly with the provider."
+      },
+      "3": {
+        "title": "Agree on Details",
+        "desc": "Agree on price, date, time, and location."
+      },
+      "4": {
+        "title": "Confirm & Receive",
+        "desc": "Confirm the request and receive the service at your convenience."
+      }
+    }
+  },
+  "benefits": {
+    "title": "Why choose Al-Gohary?",
+    "discovery": {
+      "title": "Convenient Discovery",
+      "desc": "Easily find the right service for your needs."
+    },
+    "communication": {
+      "title": "Direct Communication",
+      "desc": "Chat directly with service providers to clarify details."
+    },
+    "scheduling": {
+      "title": "Flexible Scheduling",
+      "desc": "Set appointments that fit your schedule perfectly."
+    },
+    "trusted": {
+      "title": "Trusted Providers",
+      "desc": "Connect with reliable professionals in your area."
+    }
+  },
+  "providerCta": {
+    "title": "Turn your skills into new opportunities.",
+    "desc": "Join Al-Gohary as a service provider, create your profile, offer services, and connect with customers effortlessly.",
+    "button": "Become a Provider"
+  },
+  "finalCta": {
+    "title": "Need a service? Start with Al-Gohary.",
+    "secondary": "Contact Us"
+  },
+  "cta": {
+    "appstore": "Download on the App Store",
+    "googleplay": "Get it on Google Play"
+  }
+}
